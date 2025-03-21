@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+img {
+    width: 10%;
+    text-align: center;
+}
+#seta-voltar {
+    size: 40px;
+}
